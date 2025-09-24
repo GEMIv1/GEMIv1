@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!--<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">-->
 
 <h3 align="center">
   Welcome to Ahmed Mohamed's profile!
@@ -44,5 +44,6 @@
         - Avr BootCamp by D-BUGERZ
         - Flutter Diploma at WE
         - AI Summer training at NTI 
+        - Generative AI at DEPI
 
 
