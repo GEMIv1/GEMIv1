@@ -28,7 +28,7 @@
 ### Technologies :
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Databases :
