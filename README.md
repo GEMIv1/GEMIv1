@@ -29,11 +29,10 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Databases :
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL]([https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white))&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 
@@ -46,5 +45,6 @@
         - Flutter Diploma at WE
         - AI Summer training at NTI 
         - Generative AI at DEPI
+        - Generative AI at ROUTE
 
 
